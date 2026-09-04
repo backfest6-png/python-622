@@ -1,4 +1,4 @@
-# Project Python 622
+# Project Python 622 - main release
 
 Небольшое учебное приложение на Python.
 
