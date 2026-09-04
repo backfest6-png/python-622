@@ -1,4 +1,4 @@
-# Project Python 622 - feature workflow
+# Project Python 622 - main release and feature workflow
 
 Небольшое учебное приложение на Python.
 
