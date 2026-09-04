@@ -1,0 +1,14 @@
+Домашнее задание №25
+
+Репозиторий:
+https://github.com/backfest6-png/python-622
+
+Pull Request:
+https://github.com/backfest6-png/python-622/pull/1
+
+Ветка:
+feature/readme-workflow
+
+Статус:
+Pull Request #1 объединён в main.
+Локальная main синхронизирована с origin/main.
